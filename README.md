@@ -1,4 +1,4 @@
-A pintool to collect memory data values in addition to addresses for trace-driver simulation. 
+A pintool to collect memory data values in addition to addresses for trace-driven simulation. 
 
 ### Compile
 
